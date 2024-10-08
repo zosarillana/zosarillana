@@ -9,7 +9,8 @@
 <i>• Worked with javascript 🛠️ </i> <br></br>
 <i>• Worked with laravel 🛠️ </i> <br></br>
 <i>• Worked with sql and asp.net 🛠️ </i> <br></br>
-<i>• Worked with git 🛠️ </i> <br></br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=zosarillana&theme=gruvbox)](https://github.com/zosarillana)
+<i>• Worked with git 🛠️ </i> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zosarillana&theme=gruvbox)](https://github.com/zosarillana/github-profile-trophy)
 
 
