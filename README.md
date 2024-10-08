@@ -7,7 +7,7 @@
       <img src="https://media1.tenor.com/m/av-6n_lpJLwAAAAC/peon-warcraft3.gif" alt="stack Overflow" width="300" height="300">
     </td>
     <td>
-      <h3><b>⛏️ Proficient in frontend and backend. ⛏️</b></h3>
+      <h3><b>Proficient in frontend and backend. ⛏️</b></h3>
       <i>• Currently mastering Angular 🛠️</i> <br>
       <i>• Worked with JavaScript 🛠️</i> <br>
       <i>• Worked with Laravel 🛠️</i> <br>
