@@ -10,6 +10,7 @@
       <h3><b>Proficient in frontend and backend. ⛏️</b></h3>
       <i>• Currently mastering Angular 🛠️</i> <br>
       <i>• Worked with JavaScript 🛠️</i> <br>
+      <i>• Worked with Typescipt 🛠️</i> <br>
       <i>• Worked with Laravel 🛠️</i> <br>
       <i>• Worked with SQL and ASP.NET 🛠️</i> <br>
       <i>• Worked with Git 🛠️</i> <br>
