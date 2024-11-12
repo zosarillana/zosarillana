@@ -20,8 +20,8 @@
 </table> 
 -->
 
+<img src="https://media1.tenor.com/m/CjMrl8id-QoAAAAC/onizuka-anime.gif" alt="stack Overflow" width="85%" height="50%">
 
-<img src="https://media1.tenor.com/m/UBIcFZH-SkQAAAAd/gto-great.gif" alt="stack Overflow" width="100%">
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zosarillana&theme=gruvbox)](https://github.com/zosarillana/github-profile-trophy)
