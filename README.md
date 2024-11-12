@@ -1,6 +1,7 @@
 
 
-<table border="0" >
+<!-- 
+<table border="0">
   <tr>
     <td align="center" style="border: none;">
       <h2><b>⚒️ Professional IT Project Software Developer ⚒️</b></h2>
@@ -16,9 +17,11 @@
       <i>• Worked with Git 🛠️</i> <br>
     </td>
   </tr>
-</table>
+</table> 
+-->
 
 
+<img src="https://media1.tenor.com/m/UBIcFZH-SkQAAAAd/gto-great.gif" alt="stack Overflow" width="100%">
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zosarillana&theme=gruvbox)](https://github.com/zosarillana/github-profile-trophy)
