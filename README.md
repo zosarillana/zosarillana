@@ -9,9 +9,9 @@
 
 <div align="center">
   <a href="https://github.com/zosarillana/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zosarillana&theme=discord&column=4" alt="GitHub Profile Trophy" width="48%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=zosarillana&theme=discord&column=4" alt="GitHub Profile Trophy" style="width: 48%; min-width: 300px; max-width: 48%;" />
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zosarillana&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zosarillana&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 48%; min-width: 300px; max-width: 48%;" />
 </div>
 
 <br/>
