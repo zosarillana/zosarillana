@@ -7,12 +7,12 @@
 
 # 📊 GitHub Stats:
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=zosarillana&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)-->
-<div align="start">
+<!-- <div align="start">
   <a href="https://github.com/zosarillana/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=zosarillana&theme=discord&column=4"  style="width: 48%; min-width: 400px; max-width: 48%;" />
   </a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zosarillana&theme=dark&hide_border=false" style="width: 48%; min-width: 400px; max-width: 48%;" />
-
+-->
 </div>
 
 
